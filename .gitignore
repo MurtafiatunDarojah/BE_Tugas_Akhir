@@ -58,7 +58,7 @@ coverage/
 *.tar
 *.rar
 *.log
-*.sql
+# *.sql
 *.sqlite
 
 # Git-specific files
