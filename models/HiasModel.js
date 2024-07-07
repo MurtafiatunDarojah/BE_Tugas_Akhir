@@ -81,7 +81,7 @@ const Hias = db.define(
       },
     },
     nik: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING,
       allowNull: false,
       validate: {
         notEmpty: true,
